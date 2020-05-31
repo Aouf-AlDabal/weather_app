@@ -29,6 +29,6 @@ class Forecast {
         const data = await response.json();
         return data[0];
 
-
+ 
     }
-} 
+}
