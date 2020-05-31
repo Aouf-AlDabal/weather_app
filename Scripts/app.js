@@ -26,7 +26,7 @@ const updateUI = (data) => {
       <span>&deg;C</span>
     </div>
   </div>
-</div>
+</div> 
     
     `;
 
